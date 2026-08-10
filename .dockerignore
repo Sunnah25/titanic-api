@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+*.pynb
+.git
+.gitignore
+*.ipynb_checkpoints
